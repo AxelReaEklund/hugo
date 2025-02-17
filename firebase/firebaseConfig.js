@@ -5,7 +5,7 @@ import { getAnalytics } from "firebase/analytics";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-    apiKey: "AIzaSyAJqhLQe7c_358tQspM_rHEoTTVCqUSdwk",
+    apiKey: "MyKey",
     authDomain: "hugo-v1.firebaseapp.com",
     projectId: "hugo-v1",
     storageBucket: "hugo-v1.firebasestorage.app",
